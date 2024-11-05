@@ -1,0 +1,2178 @@
+[
+    {
+        "id": 1,
+        "name": "San Diego",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Light Cruiser",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_1.png",
+            "potrait": "src/ship/shippotrait_1.png"
+        },
+        "stat": {
+            "base": {
+                "health": 646,
+                "firepower": 25,
+                "torpedo": 31,
+                "aviation": 0,
+                "anti_air": 87,
+                "evasion": 28
+            },
+            "level_100": {
+                "health": 3648,
+                "firepower": 175,
+                "torpedo": 159,
+                "aviation": 0,
+                "anti_air": 521,
+                "evasion": 95
+            },
+            "level_120": {
+                "health": 3996,
+                "firepower": 182,
+                "torpedo": 168,
+                "aviation": 0,
+                "anti_air": 559,
+                "evasion": 109
+            },
+            "level_125": {
+                "health": 4082,
+                "firepower": 184,
+                "torpedo": 170,
+                "aviation": 0,
+                "anti_air": 568,
+                "evasion": 112
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "100% → 105% → 115%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": "1 → 2"
+            },
+            "slot_2": {
+                "efficiency": "130% → 135% → 135%",
+                "equiabble": "Torpedoes",
+                "max": "2 → 2"
+            },
+            "slot_3": {
+                "efficiency": "150% → 170% → 185%",
+                "equiabble": "Anti-Air Guns",
+                "max": "1 → 1"
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Star Blaster, Crossbow, Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Warspite",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Royal Navy",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_2.png",
+            "potrait": "src/ship/shippotrait_2.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1298,
+                "firepower": 84,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 41,
+                "evasion": 6
+            },
+            "level_100": {
+                "health": 7285,
+                "firepower": 426,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 271,
+                "evasion": 29
+            },
+            "level_120": {
+                "health": 8023,
+                "firepower": 446,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 290,
+                "evasion": 33
+            },
+            "level_125": {
+                "health": 8208,
+                "firepower": 451,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 294,
+                "evasion": 34
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "100% → 130% → 140%",
+                "equiabble": "BB Main Guns",
+                "max": "3 → 3"
+            },
+            "slot_2": {
+                "efficiency": "200% → 200% → 200%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": "3 → 3"
+            },
+            "slot_3": {
+                "efficiency": "100% → 100% → 115%",
+                "equiabble": "Anti-Air Guns",
+                "max": "1 → 1"
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Azuma",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Large Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_3.png",
+            "potrait": "src/ship/shippotrait_3.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1291,
+                "firepower": 58,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 42,
+                "evasion": 11
+            },
+            "level_100": {
+                "health": 6840,
+                "firepower": 281,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 206,
+                "evasion": 44
+            },
+            "level_120": {
+                "health": 7541,
+                "firepower": 307,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 226,
+                "evasion": 50
+            },
+            "level_125": {
+                "health": 7717,
+                "firepower": 314,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 231,
+                "evasion": 51
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "70% → 100%",
+                "equiabble": "CA Main Guns / CB Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "50% → 60%",
+                "equiabble": "DD Main Guns",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "100% → 110%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Friedrich der Große",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Iron Blood",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_4.png",
+            "potrait": "src/ship/shippotrait_4.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1634,
+                "firepower": 87,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 45,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 8941,
+                "firepower": 412,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 220,
+                "evasion": 24
+            },
+            "level_120": {
+                "health": 9886,
+                "firepower": 449,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 241,
+                "evasion": 27
+            },
+            "level_125": {
+                "health": 10122,
+                "firepower": 458,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 246,
+                "evasion": 28
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "120% → 160%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "220% → 220%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "90% → 100%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Drake",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Royal Navy",
+        "type": "Heavy Cruiser",
+        "armor": "Medium",
+        "image": {
+            "full": "src/ship/ship_5.png",
+            "potrait": "src/ship/shippotrait_5.png"
+        },
+        "stat": {
+            "base": {
+                "health": 970,
+                "firepower": 54,
+                "torpedo": 46,
+                "aviation": 0,
+                "anti_air": 54,
+                "evasion": 6
+            },
+            "level_100": {
+                "health": 5141,
+                "firepower": 264,
+                "torpedo": 224,
+                "aviation": 0,
+                "anti_air": 264,
+                "evasion": 66
+            },
+            "level_120": {
+                "health": 5668,
+                "firepower": 289,
+                "torpedo": 245,
+                "aviation": 0,
+                "anti_air": 289,
+                "evasion": 75
+            },
+            "level_125": {
+                "health": 5800,
+                "firepower": 295,
+                "torpedo": 250,
+                "aviation": 0,
+                "anti_air": 295,
+                "evasion": 77
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "100% → 130%",
+                "equiabble": "CA Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "110% → 120%",
+                "equiabble": "Torpedoes",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "125% → 125%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Shinano",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Aircraft Carrier",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_6.png",
+            "potrait": "src/ship/shippotrait_6.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1462,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 84,
+                "anti_air": 60,
+                "evasion": 11
+            },
+            "level_100": {
+                "health": 7810,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 415,
+                "anti_air": 290,
+                "evasion": 42
+            },
+            "level_120": {
+                "health": 8616,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 437,
+                "anti_air": 317,
+                "evasion": 49
+            },
+            "level_125": {
+                "health": 8818,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 443,
+                "anti_air": 324,
+                "evasion": 50
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "120% → 125%",
+                "equiabble": "Fighters / Dive Bombers(LB1) / Torpedo Bombers(LB1)",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "120% → 130%",
+                "equiabble": "Dive Bombers",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "125% → 140%",
+                "equiabble": "Torpedo Bombers",
+                "max": 4
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "New Jersey",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_7.png",
+            "potrait": "src/ship/shippotrait_7.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1594,
+                "firepower": 87,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 84,
+                "evasion": 9
+            },
+            "level_100": {
+                "health": 8619,
+                "firepower": 426,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 394,
+                "evasion": 34
+            },
+            "level_120": {
+                "health": 9520,
+                "firepower": 447,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 430,
+                "evasion": 39
+            },
+            "level_125": {
+                "health": 9745,
+                "firepower": 453,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 438,
+                "evasion": 40
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "120% → 150%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "210% → 210%",
+                "equiabble": "DD Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "130% → 130%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Ägir",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Iron Blood",
+        "type": "Large Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_8.png",
+            "potrait": "src/ship/shippotrait_8.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1385,
+                "firepower": 53,
+                "torpedo": 38,
+                "aviation": 0,
+                "anti_air": 47,
+                "evasion": 12
+            },
+            "level_100": {
+                "health": 7161,
+                "firepower": 258,
+                "torpedo": 184,
+                "aviation": 0,
+                "anti_air": 230,
+                "evasion": 46
+            },
+            "level_120": {
+                "health": 7877,
+                "firepower": 282,
+                "torpedo": 202,
+                "aviation": 0,
+                "anti_air": 252,
+                "evasion": 52
+            },
+            "level_125": {
+                "health": 8056,
+                "firepower": 288,
+                "torpedo": 206,
+                "aviation": 0,
+                "anti_air": 257,
+                "evasion": 53
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "90% → 120%",
+                "equiabble": "CA Main Guns / CB Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "100% → 110%",
+                "equiabble": "Torpedoes",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "100% → 110%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Hakuryuu",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Aircraft Carrier",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_9.png",
+            "potrait": "src/ship/shippotrait_9.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1417,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 88,
+                "anti_air": 64,
+                "evasion": 14
+            },
+            "level_100": {
+                "health": 7572,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 415,
+                "anti_air": 295,
+                "evasion": 50
+            },
+            "level_120": {
+                "health": 8354,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 453,
+                "anti_air": 323,
+                "evasion": 57
+            },
+            "level_125": {
+                "health": 8549,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 462,
+                "anti_air": 330,
+                "evasion": 59
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "110% → 125%",
+                "equiabble": "Fighters / Torpedo Bombers (Dev.10)",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "125% → 150%",
+                "equiabble": "Dive Bombers",
+                "max": 4
+            },
+            "slot_3": {
+                "efficiency": "120% → 130%",
+                "equiabble": "Torpedo Bombers / Dive Bombers (Dev.30)",
+                "max": 2
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Shimakaze",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Destroyer",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_10.png",
+            "potrait": "src/ship/shippotrait_10.png"
+        },
+        "stat": {
+            "base": {
+                "health": 381,
+                "firepower": 14,
+                "torpedo": 116,
+                "aviation": 0,
+                "anti_air": 30,
+                "evasion": 86
+            },
+            "level_100": {
+                "health": 2132,
+                "firepower": 72,
+                "torpedo": 572,
+                "aviation": 0,
+                "anti_air": 147,
+                "evasion": 252
+            },
+            "level_120": {
+                "health": 2362,
+                "firepower": 76,
+                "torpedo": 602,
+                "aviation": 0,
+                "anti_air": 161,
+                "evasion": 285
+            },
+            "level_125": {
+                "health": 2420,
+                "firepower": 77,
+                "torpedo": 609,
+                "aviation": 0,
+                "anti_air": 228,
+                "evasion": 293
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "80% → 85%",
+                "equiabble": "DD Main Guns",
+                "max": 1
+            },
+            "slot_2": {
+                "efficiency": "150% → 170%",
+                "equiabble": "Torpedoes",
+                "max": 2
+            },
+            "slot_3": {
+                "efficiency": "85% → 90%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Hammer, Dual Swords",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Yuudachi",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Destroyer",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_11.png",
+            "potrait": "src/ship/shippotrait_11.png"
+        },
+        "stat": {
+            "base": {
+                "health": 295,
+                "firepower": 13,
+                "torpedo": 105,
+                "aviation": 0,
+                "anti_air": 29,
+                "evasion": 71
+            },
+            "level_100": {
+                "health": 1815,
+                "firepower": 106,
+                "torpedo": 558,
+                "aviation": 0,
+                "anti_air": 143,
+                "evasion": 251
+            },
+            "level_120": {
+                "health": 1993,
+                "firepower": 110,
+                "torpedo": 585,
+                "aviation": 0,
+                "anti_air": 157,
+                "evasion": 279
+            },
+            "level_125": {
+                "health": 2038,
+                "firepower": 111,
+                "torpedo": 591,
+                "aviation": 0,
+                "anti_air": 160,
+                "evasion": 286
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "80% → 85% → 100%",
+                "equiabble": "DD Main Guns",
+                "max": "1 → 2"
+            },
+            "slot_2": {
+                "efficiency": "130% → 150% → 160%",
+                "equiabble": "Torpedoes",
+                "max": "2 → 1"
+            },
+            "slot_3": {
+                "efficiency": "80% → 85% → 85%",
+                "equiabble": "Anti-Air Guns",
+                "max": "1 → 1"
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Hammer, Dual Swords",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Ulrich von Hutten",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Iron Blood",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_12.png",
+            "potrait": "src/ship/shippotrait_12.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1573,
+                "firepower": 86,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 47,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 8605,
+                "firepower": 426,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 230,
+                "evasion": 24
+            },
+            "level_120": {
+                "health": 9513,
+                "firepower": 448,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 252,
+                "evasion": 27
+            },
+            "level_125": {
+                "health": 9741,
+                "firepower": 454,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 257,
+                "evasion": 28
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "125% → 155%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "210% → 210%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "90% → 90%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Kronshtadt",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Northern Parliament",
+        "type": "Heavy Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_.13png",
+            "potrait": "src/ship/shippotrait_13.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1247,
+                "firepower": 54,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 42,
+                "evasion": 11
+            },
+            "level_100": {
+                "health": 6609,
+                "firepower": 278,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 206,
+                "evasion": 33
+            },
+            "level_120": {
+                "health": 7286,
+                "firepower": 294,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 226,
+                "evasion": 38
+            },
+            "level_125": {
+                "health": 7455,
+                "firepower": 298,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 231,
+                "evasion": 39
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "90% → 110%",
+                "equiabble": "CA Main Guns / CB Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "45% → 55%",
+                "equiabble": "CL Main Guns",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "100% → 100%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Vanguard",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Royal Navy",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_14.png",
+            "potrait": "src/ship/shippotrait_14.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1585,
+                "firepower": 81,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 82,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 8571,
+                "firepower": 397,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 390,
+                "evasion": 33
+            },
+            "level_120": {
+                "health": 9466,
+                "firepower": 417,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 426,
+                "evasion": 37
+            },
+            "level_125": {
+                "health": 9690,
+                "firepower": 422,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 435,
+                "evasion": 39
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "115% → 145%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "180% → 180%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "130% → 130%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Brest",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Iris Libre",
+        "type": "Large Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_15.png",
+            "potrait": "src/ship/shippotrait_15.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1259,
+                "firepower": 56,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 47,
+                "evasion": 11
+            },
+            "level_100": {
+                "health": 6671,
+                "firepower": 273,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 232,
+                "evasion": 45
+            },
+            "level_120": {
+                "health": 7354,
+                "firepower": 299,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 254,
+                "evasion": 50
+            },
+            "level_125": {
+                "health": 7525,
+                "firepower": 305,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 259,
+                "evasion": 52
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "90% → 110%",
+                "equiabble": "CA Main Guns / CB Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "100% → 110%",
+                "equiabble": "DD Main Guns",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "100% → 120%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Plymouth",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Royal Navy",
+        "type": "Light Cruiser",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_16.png",
+            "potrait": "src/ship/shippotrait_16.png"
+        },
+        "stat": {
+            "base": {
+                "health": 930,
+                "firepower": 36,
+                "torpedo": 75,
+                "aviation": 0,
+                "anti_air": 63,
+                "evasion": 29
+            },
+            "level_100": {
+                "health": 5027,
+                "firepower": 177,
+                "torpedo": 358,
+                "aviation": 0,
+                "anti_air": 305,
+                "evasion": 88
+            },
+            "level_120": {
+                "health": 5553,
+                "firepower": 194,
+                "torpedo": 391,
+                "aviation": 0,
+                "anti_air": 334,
+                "evasion": 100
+            },
+            "level_125": {
+                "health": 5684,
+                "firepower": 198,
+                "torpedo": 399,
+                "aviation": 0,
+                "anti_air": 341,
+                "evasion": 103
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "90% → 120%",
+                "equiabble": "CL Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "165% → 165%",
+                "equiabble": "Torpedoes",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "130% → 130%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Crossbow, Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Musashi",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_17.png",
+            "potrait": "src/ship/shippotrait_17.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1819,
+                "firepower": 91,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 43,
+                "evasion": 7
+            },
+            "level_100": {
+                "health": 9833,
+                "firepower": 450,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 210,
+                "evasion": 31
+            },
+            "level_120": {
+                "health": 10860,
+                "firepower": 473,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 230,
+                "evasion": 36
+            },
+            "level_125": {
+                "health": 11117,
+                "firepower": 479,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 234,
+                "evasion": 38
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "125% → 155%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "220% → 220%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "100% → 100%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Yorktown II",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Aircraft Carrier",
+        "armor": "Medium",
+        "image": {
+            "full": "src/ship/ship_18.png",
+            "potrait": "src/ship/shippotrait_18.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1248,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 87,
+                "anti_air": 69,
+                "evasion": 13
+            },
+            "level_100": {
+                "health": 6774,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 430,
+                "anti_air": 333,
+                "evasion": 48
+            },
+            "level_120": {
+                "health": 7484,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 452,
+                "anti_air": 364,
+                "evasion": 55
+            },
+            "level_125": {
+                "health": 7662,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 458,
+                "anti_air": 371,
+                "evasion": 56
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "115% → 120%",
+                "equiabble": "Fighters",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "120% → 135%",
+                "equiabble": "Dive Bombers",
+                "max": 4
+            },
+            "slot_3": {
+                "efficiency": "120% → 135%",
+                "equiabble": "Torpedo Bombers / Dive Bombers (LB1) / Fighters (LB1)",
+                "max": 3
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Implacable",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Royal Navy",
+        "type": "Aircraft Carrier",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_19.png",
+            "potrait": "src/ship/shippotrait_19.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1151,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 84,
+                "anti_air": 62,
+                "evasion": 13
+            },
+            "level_100": {
+                "health": 6198,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 417,
+                "anti_air": 300,
+                "evasion": 48
+            },
+            "level_120": {
+                "health": 6843,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 438,
+                "anti_air": 327,
+                "evasion": 55
+            },
+            "level_125": {
+                "health": 7004,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 444,
+                "anti_air": 334,
+                "evasion": 56
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "125% → 140%",
+                "equiabble": "Fighters",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "120% → 130%",
+                "equiabble": "Dive Bombers / Fighters (MLB) / Torpedo Bombers (MLB)",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "120% → 130%",
+                "equiabble": "Torpedo Bombers",
+                "max": 3
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Bismarck Zwei",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Iron Blood",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_20.png",
+            "potrait": "src/ship/shippotrait_20.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1522,
+                "firepower": 85,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 51,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 8329,
+                "firepower": 421,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 249,
+                "evasion": 24
+            },
+            "level_120": {
+                "health": 9209,
+                "firepower": 443,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 273,
+                "evasion": 27
+            },
+            "level_125": {
+                "health": 9429,
+                "firepower": 448,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 279,
+                "evasion": 28
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "125% → 155%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "200% → 200%",
+                "equiabble": "DD Main Guns / CL Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "110% → 110%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "Hindenburg",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Iron Blood",
+        "type": "Heavy Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_21.png",
+            "potrait": "src/ship/shippotrait_21.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1037,
+                "firepower": 59,
+                "torpedo": 48,
+                "aviation": 0,
+                "anti_air": 43,
+                "evasion": 10
+            },
+            "level_100": {
+                "health": 5363,
+                "firepower": 286,
+                "torpedo": 234,
+                "aviation": 0,
+                "anti_air": 212,
+                "evasion": 71
+            },
+            "level_120": {
+                "health": 5899,
+                "firepower": 313,
+                "torpedo": 256,
+                "aviation": 0,
+                "anti_air": 231,
+                "evasion": 80
+            },
+            "level_125": {
+                "health": 6033,
+                "firepower": 320,
+                "torpedo": 261,
+                "aviation": 0,
+                "anti_air": 237,
+                "evasion": 83
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "110% → 130%",
+                "equiabble": "CA Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "100% → 110%",
+                "equiabble": "Torpedoes",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "120% → 130%",
+                "equiabble": "Anti-Air Guns / CA Main Guns (Dev.30)",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "Kearsarge",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Aviation Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_22.png",
+            "potrait": "src/ship/shippotrait_22.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1571,
+                "firepower": 83,
+                "torpedo": 0,
+                "aviation": 70,
+                "anti_air": 63,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 8323,
+                "firepower": 396,
+                "torpedo": 0,
+                "aviation": 357,
+                "anti_air": 305,
+                "evasion": 32
+            },
+            "level_120": {
+                "health": 9176,
+                "firepower": 432,
+                "torpedo": 0,
+                "aviation": 392,
+                "anti_air": 333,
+                "evasion": 37
+            },
+            "level_125": {
+                "health": 9389,
+                "firepower": 441,
+                "torpedo": 0,
+                "aviation": 401,
+                "anti_air": 340,
+                "evasion": 39
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "100% → 140%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "160% → 200%",
+                "equiabble": "Fighters",
+                "max": 4
+            },
+            "slot_3": {
+                "efficiency": "100% → 100%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "Unzen",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Heavy Cruiser",
+        "armor": "Medium",
+        "image": {
+            "full": "src/ship/ship_23.png",
+            "potrait": "src/ship/shippotrait_23.png"
+        },
+        "stat": {
+            "base": {
+                "health": 805,
+                "firepower": 55,
+                "torpedo": 55,
+                "aviation": 0,
+                "anti_air": 42,
+                "evasion": 13
+            },
+            "level_100": {
+                "health": 4249,
+                "firepower": 279,
+                "torpedo": 281,
+                "aviation": 0,
+                "anti_air": 206,
+                "evasion": 68
+            },
+            "level_120": {
+                "health": 4683,
+                "firepower": 295,
+                "torpedo": 297,
+                "aviation": 0,
+                "anti_air": 226,
+                "evasion": 79
+            },
+            "level_125": {
+                "health": 4791,
+                "firepower": 299,
+                "torpedo": 301,
+                "aviation": 0,
+                "anti_air": 231,
+                "evasion": 82
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "135% → 140%",
+                "equiabble": "CA Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "130% → 150%",
+                "equiabble": "Torpedoes",
+                "max": 2
+            },
+            "slot_3": {
+                "efficiency": "125% → 130%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "Guam",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Large Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_24.png",
+            "potrait": "src/ship/shippotrait_24.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1233,
+                "firepower": 55,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 87,
+                "evasion": 13
+            },
+            "level_100": {
+                "health": 6907,
+                "firepower": 281,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 411,
+                "evasion": 46
+            },
+            "level_120": {
+                "health": 7652,
+                "firepower": 297,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 449,
+                "evasion": 53
+            },
+            "level_125": {
+                "health": 7838,
+                "firepower": 301,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 458,
+                "evasion": 55
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "95% → 115%",
+                "equiabble": "CB Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "55% → 65%",
+                "equiabble": "DD Main Guns",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "150% → 150%",
+                "equiabble": "Anti-Air Guns",
+                "max": 2
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Laffey II",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Destroyer",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_25.png",
+            "potrait": "src/ship/shippotrait_25.png"
+        },
+        "stat": {
+            "base": {
+                "health": 417,
+                "firepower": 28,
+                "torpedo": 76,
+                "aviation": 0,
+                "anti_air": 50,
+                "evasion": 72
+            },
+            "level_100": {
+                "health": 2335,
+                "firepower": 143,
+                "torpedo": 378,
+                "aviation": 0,
+                "anti_air": 245,
+                "evasion": 234
+            },
+            "level_120": {
+                "health": 2586,
+                "firepower": 151,
+                "torpedo": 398,
+                "aviation": 0,
+                "anti_air": 268,
+                "evasion": 266
+            },
+            "level_125": {
+                "health": 2849,
+                "firepower": 153,
+                "torpedo": 403,
+                "aviation": 0,
+                "anti_air": 274,
+                "evasion": 274
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "130% → 140%",
+                "equiabble": "DD Main Guns",
+                "max": 1
+            },
+            "slot_2": {
+                "efficiency": "130% → 140%",
+                "equiabble": "Torpedoes",
+                "max": 2
+            },
+            "slot_3": {
+                "efficiency": "170% → 180%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Hammer, Dual Swords",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Sovetsky Soyuz",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Northern Parliament",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_26.png",
+            "potrait": "src/ship/shippotrait_26.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1657,
+                "firepower": 87,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 47,
+                "evasion": 8
+            },
+            "level_100": {
+                "health": 9030,
+                "firepower": 430,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 230,
+                "evasion": 31
+            },
+            "level_120": {
+                "health": 9981,
+                "firepower": 452,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 252,
+                "evasion": 35
+            },
+            "level_125": {
+                "health": 10218,
+                "firepower": 458,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 257,
+                "evasion": 37
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "120% → 150%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "200% → 200%",
+                "equiabble": "CL Main Guns / DD Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "120% → 120%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "Alsace",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Iris Libre",
+        "type": "Battleship",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_27.png",
+            "potrait": "src/ship/shippotrait_27.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1520,
+                "firepower": 86,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 58,
+                "evasion": 9
+            },
+            "level_100": {
+                "health": 8283,
+                "firepower": 427,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 282,
+                "evasion": 37
+            },
+            "level_120": {
+                "health": 9155,
+                "firepower": 450,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 309,
+                "evasion": 42
+            },
+            "level_125": {
+                "health": 9373,
+                "firepower": 455,
+                "torpedo": 0,
+                "aviation": 0,
+                "anti_air": 315,
+                "evasion": 44
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "110% → 145%",
+                "equiabble": "BB Main Guns",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "200% → 200%",
+                "equiabble": "CL Main Guns / DD Main Guns",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "100% → 100%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Bowgun, Officer's Sword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Mogador",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Vichya Dominion",
+        "type": "Destroyer",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_28.png",
+            "potrait": "src/ship/shippotrait_28.png"
+        },
+        "stat": {
+            "base": {
+                "health": 365,
+                "firepower": 28,
+                "torpedo": 70,
+                "aviation": 0,
+                "anti_air": 32,
+                "evasion": 78
+            },
+            "level_100": {
+                "health": 2044,
+                "firepower": 144,
+                "torpedo": 351,
+                "aviation": 0,
+                "anti_air": 156,
+                "evasion": 233
+            },
+            "level_120": {
+                "health": 2264,
+                "firepower": 152,
+                "torpedo": 370,
+                "aviation": 0,
+                "anti_air": 226,
+                "evasion": 264
+            },
+            "level_125": {
+                "health": 2319,
+                "firepower": 155,
+                "torpedo": 375,
+                "aviation": 0,
+                "anti_air": 174,
+                "evasion": 271
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "110% → 130%",
+                "equiabble": "DD Main Guns",
+                "max": 2
+            },
+            "slot_2": {
+                "efficiency": "125% → 130%",
+                "equiabble": "Torpedoes",
+                "max": 1
+            },
+            "slot_3": {
+                "efficiency": "115% → 120%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Hammer, Dual Swords",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Admiral Nakhimov",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Northern Parliament",
+        "type": "Aircraft Carrier",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_29.png",
+            "potrait": "src/ship/shippotrait_29.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1613,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 89,
+                "anti_air": 56,
+                "evasion": 12
+            },
+            "level_100": {
+                "health": 8339,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 421,
+                "anti_air": 271,
+                "evasion": 39
+            },
+            "level_120": {
+                "health": 9173,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 458,
+                "anti_air": 297,
+                "evasion": 44
+            },
+            "level_125": {
+                "health": 9381,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 468,
+                "anti_air": 303,
+                "evasion": 45
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "125% → 140%",
+                "equiabble": "Fighters",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "120% → 140%",
+                "equiabble": "Dive Bombers / Fighters (Dev.30) / Torpedo Bombers (Dev.30)",
+                "max": 3
+            },
+            "slot_3": {
+                "efficiency": "120% → 140%",
+                "equiabble": "Torpedo Bombers",
+                "max": 3
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Napoli",
+        "rarity": "Decisive ★★★★★★",
+        "nationality": "Sardegna Empire",
+        "type": "Heavy Cruiser",
+        "armor": "Heavy",
+        "image": {
+            "full": "src/ship/ship_30.png",
+            "potrait": "src/ship/shippotrait_30.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1223,
+                "firepower": 54,
+                "torpedo": 41,
+                "aviation": 0,
+                "anti_air": 48,
+                "evasion": 15
+            },
+            "level_100": {
+                "health": 6479,
+                "firepower": 264,
+                "torpedo": 201,
+                "aviation": 0,
+                "anti_air": 236,
+                "evasion": 67
+            },
+            "level_120": {
+                "health": 7143,
+                "firepower": 288,
+                "torpedo": 220,
+                "aviation": 0,
+                "anti_air": 258,
+                "evasion": 74
+            },
+            "level_125": {
+                "health": 7309,
+                "firepower": 294,
+                "torpedo": 224,
+                "aviation": 0,
+                "anti_air": 263,
+                "evasion": 75
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "130% → 150%",
+                "equiabble": "CA Main Guns",
+                "max": 1
+            },
+            "slot_2": {
+                "efficiency": "55% → 70%",
+                "equiabble": "CL Main Guns",
+                "max": 2
+            },
+            "slot_3": {
+                "efficiency": "100% → 105%",
+                "equiabble": "Anti-Air Guns",
+                "max": 1
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Lance, Greatsword",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Eldridge",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Eagle Union",
+        "type": "Destroyer",
+        "armor": "Light",
+        "image": {
+            "full": "src/ship/ship_31.png",
+            "potrait": "src/ship/shippotrait_31.png"
+        },
+        "stat": {
+            "base": {
+                "health": 277,
+                "firepower": 15,
+                "torpedo": 72,
+                "aviation": 0,
+                "anti_air": 34,
+                "evasion": 78
+            },
+            "level_100": {
+                "health": 1718,
+                "firepower": 136,
+                "torpedo": 362,
+                "aviation": 0,
+                "anti_air": 227,
+                "evasion": 227
+            },
+            "level_120": {
+                "health": 1885,
+                "firepower": 141,
+                "torpedo": 381,
+                "aviation": 0,
+                "anti_air": 243,
+                "evasion": 284
+            },
+            "level_125": {
+                "health": 1927,
+                "firepower": 142,
+                "torpedo": 386,
+                "aviation": 0,
+                "anti_air": 247,
+                "evasion": 291
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "110% → 115% → 140%",
+                "equiabble": "DD Main Guns",
+                "max": "1 → 1"
+            },
+            "slot_2": {
+                "efficiency": "110% → 130% → 130%",
+                "equiabble": "Torpedoes",
+                "max": "2 → 2"
+            },
+            "slot_3": {
+                "efficiency": "120% → 125% → 125%",
+                "equiabble": "Anti-Air Guns",
+                "max": "1 → 2"
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Hammer, Dual Swords",
+                "max": 1
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "Amagi(CV)",
+        "rarity": "Ultra Rare ★★★★★★",
+        "nationality": "Sakura Empire",
+        "type": "Aircraft Carrier",
+        "armor": "Medium",
+        "image": {
+            "full": "src/ship/ship_32.png",
+            "potrait": "src/ship/shippotrait_32.png"
+        },
+        "stat": {
+            "base": {
+                "health": 1267,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 85,
+                "anti_air": 61,
+                "evasion": 12
+            },
+            "level_100": {
+                "health": 6877,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 421,
+                "anti_air": 294,
+                "evasion": 44
+            },
+            "level_120": {
+                "health": 7599,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 443,
+                "anti_air": 321,
+                "evasion": 51
+            },
+            "level_125": {
+                "health": 7779,
+                "firepower": 0,
+                "torpedo": 0,
+                "aviation": 448,
+                "anti_air": 328,
+                "evasion": 52
+            }
+        },
+        "equipment": {
+            "slot_1": {
+                "efficiency": "130% → 145%",
+                "equiabble": "Fighters / Dive Bombers (LB1)",
+                "max": 3
+            },
+            "slot_2": {
+                "efficiency": "130% → 145%",
+                "equiabble": "Dive Bombers / Torpedo Bombers (MLB)",
+                "max": 2
+            },
+            "slot_3": {
+                "efficiency": "145% → 160%",
+                "equiabble": "Torpedo Bombers",
+                "max": 3
+            },
+            "augment": {
+                "efficiency": "N/A",
+                "equiabble": "Scepter, Hunting Bow",
+                "max": 1
+            }
+        }
+    }
+]
